@@ -14,3 +14,4 @@ if port 10000 is already used, you can kill the process with :
 ```
 fuser -k 10000/tcp
 ```
+and then retry the previous command line.
