@@ -1,0 +1,26 @@
+body{
+	background-color:  rgb(178, 180, 180);
+}
+body main{
+	display: flex; 
+	
+}
+main table {
+    border-collapse: collapse;
+    height: 1000px;
+	width: 1000px;
+	margin: 20px;
+}
+main table td {
+    border: black solid 1px;
+    background-color: blueviolet;
+    
+}
+.palette {
+	width: 50px;
+	height: 50px;
+	margin: 20px;
+}
+.palette input {
+	height: 100%;
+}
